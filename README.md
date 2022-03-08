@@ -1,2 +1,2 @@
-# workflow-test
+# Workflow Test
 Testing for Lunch and Learn Tutorial
